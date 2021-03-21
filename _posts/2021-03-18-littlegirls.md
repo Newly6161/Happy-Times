@@ -4,8 +4,7 @@ title:  "HappyTimes： 宝贝们的欢乐小队形"
 image: "assets/images/210318-017.jpg"
 ---
 
-**收集整理：HappyTimes**  
-
+**记录：HappyTimes**  
 
 > 小女孩们的队形~~ 
 > 欢乐了一整片山丘~！
